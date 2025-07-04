@@ -1,6 +1,7 @@
-# 💫 About Me:
-🔭 I’m currently working on a Resume Creator Project.<br>👯 I’m looking to collaborate on creating something fabulous.<br>🌱 I’m currently learning ReactJs.<br>💬 Ask me about Anything.<br>⚡ Fun fact about me I sketch too.
+![](https://camo.githubusercontent.com/e09012c164942eb846524af8cbea063e07297c1d0f9c5846dd3f2da99ef08f60/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d443942454431266865696768743d3132302673656374696f6e3d686561646572)
 
+# 💫 About Me:
+🔭 I’m currently working on a Mental Health Project.<br>👯 I’m looking to collaborate on creating something fabulous.<br>🌱 I’m currently learning ReactJs.<br>💬 Ask me about Anything.<br>⚡ Fun fact about me I sketch too.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:csmeharpatel@gmail.com) 
@@ -15,8 +16,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
+
+![](https://camo.githubusercontent.com/be4f89116726974b98e9beef51954c013f590e48a3badbde49f8ab29b7011140/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d443942454431266865696768743d3132302673656374696f6e3d666f6f746572)
+
 [![](https://visitcount.itsvg.in/api?id=MeharPatel2512&icon=4&color=1)](https://visitcount.itsvg.in)
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
