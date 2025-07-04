@@ -13,6 +13,47 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=MeharPatel2512&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeharPatel2512&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="start">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Then-333333?style=flat&logoColor=white" alt="Then">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Now-483699?style=flat&logoColor=white" alt="Now">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Exploring-2B90D9?style=flat&logoColor=white" alt="Exploring">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div style="display: flex; flex-direction: column; gap: 5px;">
+          <img src="https://img.shields.io/badge/HTML-ff6600?style=flat&logo=html5&logoColor=white" alt="HTML">
+          <img src="https://img.shields.io/badge/CSS-0066ff?style=flat&logo=css&logoColor=white" alt="CSS">
+          <img src="https://img.shields.io/badge/Javascript-ffff00?style=flat&logo=javascript&logoColor=white" alt="Javascript">
+          <img src="https://img.shields.io/badge/SQL-ff0000?style=flat&logo=ms-sql&logoColor=white" alt="SQL">
+        </div>
+      </td>
+      <td>
+        <div style="display: flex; flex-direction: column; gap: 5px;">
+          <img src="https://img.shields.io/badge/NodeJs-33cc33?style=flat&logo=node.js&logoColor=white" alt="NodeJs">
+          <img src="https://img.shields.io/badge/MongoDb-00cc00?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+          <img src="https://img.shields.io/badge/TailwindCSS-0066ff?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+          <img src="https://img.shields.io/badge/ExpressJs-ffff00?style=flat&logo=ejs&logoColor=white" alt="ExpressJs">
+        </div>
+      </td>
+      <td>
+        <div style="display: flex; flex-direction: column; gap: 5px;">
+          <img src="https://img.shields.io/badge/ReactJs-66ccff?style=flat&logo=react&logoColor=white" alt="ReactJs">
+          <img src="https://img.shields.io/badge/Java-ff9900?style=flat&logo=openjdk&logoColor=white" alt="Java">
+          <img src="https://img.shields.io/badge/Dotnet-0033cc?style=flat&logo=dotnet&logoColor=white" alt="Rust">
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
